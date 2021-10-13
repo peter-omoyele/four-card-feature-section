@@ -12,7 +12,7 @@ body {
     display: grid;
     place-content: center;
     background-color: rgb(230, 230, 230);
-    
+    font-size: 20px;
 }
 
 
@@ -121,7 +121,7 @@ img {
     color: #fff;
     transition: background-color .7s;
 }
-}
+
 
 .card-two div {
     display: flex;
